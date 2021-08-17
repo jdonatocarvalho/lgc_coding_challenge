@@ -1,0 +1,16 @@
+lgc_coding_challenge:
+  country: US
+  sample_methods:
+    - Blood
+    - BloodUrine
+    - Urine
+    - Stool
+    - Saliva
+    - Hpv
+    - NasopharyngealThroatSwab
+    - NasalSwab
+    - ThroatSwab
+    - Covid19Blood
+    - NasopharyngealSwab
+    - Covid19Nasal
+    - PABlood
